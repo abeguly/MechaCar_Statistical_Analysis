@@ -2,6 +2,7 @@
 ## Linear Regression to Predict MPG
  
 <img src = "Resources/summary(linear_mecha).png">
+
 *	Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 Response: Based on the results above, vehicle length and ground clearance have significant impact on the impact, since both t values are high. 
